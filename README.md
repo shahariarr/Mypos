@@ -1,6 +1,6 @@
 # MY POS
 
-This software is a single use system designed to help business owners manage their businesses efficiently.
+This software is a single user system designed to help business owners manage their businesses efficiently.
 
 ## Features Overview
 
