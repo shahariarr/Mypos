@@ -49,15 +49,17 @@ This Point of Sale (POS) system is designed to manage sales, inventory, and tran
 3. **Sales Process:** Sell products to customers and generate invoices.
 4. **Generate Reports:** Generate sales reports to assist in business management.
 
-## I developed this project using the following:
-1. **Python.
-2. **Django
-3. **HTML
-4. **CSS
-5. **JavaScript
-6. **jQuery
-7. **Ajax
-8. **Bootstrap v5
+
+## Technologies Used
+
+- **Python**
+- **Django**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **jQuery**
+- **Ajax**
+- **Bootstrap v5**
 
 ### Prerequisites
 - Ensure you have the following software installed:
