@@ -44,7 +44,7 @@ This Point of Sale (POS) system is designed to manage sales, inventory, and tran
 - **Logout**: Secure logout functionality for users.
 ## User Instructions
 
-1. **Login:** An admin who will login with his username and password will not have any registration option ( UserName:admin & Password:admin123.
+1. **Login:** An admin who will login with his username and password will not have any registration option.
 2. **Inventory Management:** Manage your shop's inventory.
 3. **Sales Process:** Sell products to customers and generate invoices.
 4. **Generate Reports:** Generate sales reports to assist in business management.
