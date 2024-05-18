@@ -1,4 +1,4 @@
-# Multi-User Software
+# MY POS
 
 This software is a multi-user system designed to help business owners manage their businesses efficiently.
 
